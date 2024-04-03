@@ -8,7 +8,7 @@ import PokemonCard from "./components/PokemonCard/PokemonCard"
 function App() {
   return (
     <div>
-      <MyTitle />
+      {/* <MyTitle /> */}
       <PokemonCard />
     </div>
   )
